@@ -1,8 +1,8 @@
 /*
 
-TemplateMo 559 XYZ Shop
+TemplateMo 559  UMUHIMU
 
-https://templatemo.com/tm-559-XYZ-shop
+https://templatemo.com/tm-559- UMUHIMU-shop
 
 */
 
